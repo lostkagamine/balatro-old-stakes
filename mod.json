@@ -1,0 +1,15 @@
+{
+	"id": "oldstakes",
+	"name": "Old Stakes",
+	"display_name": "OS",
+	"author": ["Nightshade System (nightshademagia)"],
+	"description": "Reverts Orange and Gold stake to 1.0.0 balancing, if you really hate yourself",
+	"prefix": "ns_old_stakes",
+	"main_file": "main.lua",
+	"priority": 0,
+	"version": "1.0.0a",
+	"dependencies": [
+    "Steamodded (>=1.~*)",
+    "Lovely (>=0.6)"
+  ]
+}
