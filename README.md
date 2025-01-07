@@ -6,6 +6,5 @@ Ever wanted to play Balatro with the old stake mechanics?
 ## Installation
 This is a [Steamodded](https://github.com/steamodded/smods)-compatible mod.
 
-## Credits
 - Programming: Nightshade System (nightshademagia)
 - Old stake mechanics: LocalThunk
